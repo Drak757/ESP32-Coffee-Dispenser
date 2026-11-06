@@ -20,9 +20,9 @@ The system uses three push buttons and an SG90 servo motor to control a dispensi
 
 | Setting | Dispense Time |
 |---|---:|
-| Light | 500 ms |
-| Medium | 1000 ms |
-| Strong | 1500 ms |
+| Light | 125 ms |
+| Medium | 175 ms |
+| Strong | 225 ms |
 
 These times are currently used for testing and will be calibrated after the physical coffee hopper and gate are completed.
 
